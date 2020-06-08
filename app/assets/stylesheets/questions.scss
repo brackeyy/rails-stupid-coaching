@@ -8,14 +8,15 @@ body {
   font-family: "Georgia" // Using this variable
 }
 
-a {
-  color: grey;
-  &:hover {
-    color: black;
-  }
-}
 .container{
   width: 400px;
   margin: 0 auto;
+  text-align: center;
+}
+.btn{
+  margin: 20px auto;
+}
+.form-control{
+  margin: 20px auto;
 }
 
